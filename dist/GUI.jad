@@ -1,0 +1,9 @@
+MIDlet-1: GUI,,Main
+MIDlet-Icon: /res/icon.png
+MIDlet-Jar-Size: 73302
+MIDlet-Jar-URL: GUI.jar
+MIDlet-Name: GUI
+MIDlet-Vendor: Naren Gohil
+MIDlet-Version: 0.0.1
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
